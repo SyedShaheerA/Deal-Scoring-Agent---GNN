@@ -1,4 +1,4 @@
-# 🏢 Deal Scoring Agent — GNN
+# 🏢 Deal Scoring Agent - GNN
 
 Ranks business listings by fit against a buyer's criteria using a **Graph Neural Network (GageSAGE)** to identify market "comparables" and hidden value.
 
